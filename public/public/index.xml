@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indigo Consulting</title>
+    <link>https://indigoconsulting.group/</link>
+    <description>Recent content on Indigo Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jun 2017 15:44:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://indigoconsulting.group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>shih</title>
+      <link>https://indigoconsulting.group/post/shih/</link>
+      <pubDate>Sat, 10 Jun 2017 15:44:17 -0400</pubDate>
+      
+      <guid>https://indigoconsulting.group/post/shih/</guid>
+      <description>some shit</description>
+    </item>
+    
+  </channel>
+</rss>
